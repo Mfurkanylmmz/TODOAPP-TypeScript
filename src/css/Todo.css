@@ -1,0 +1,16 @@
+.todo-edit{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    padding: 16px;
+    margin-top: 25px;
+    border-radius: 5px;
+
+}
+
+.icon-edit{
+font-size: 22px;
+cursor: pointer;
+}
